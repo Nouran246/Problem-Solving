@@ -1,2 +1,2 @@
 # Codeforces_problems
-Some of the solved problems on Codeforces
+Here are some problems I've solved on Codeforces, a platform for sharpening programming skills through algorithmic challenges. Though I haven't joined contests yet, tackling these problems independently has helped me grow in coding proficiency and problem-solving. Each solution marks a step forward in mastering programming fundamentals and building a versatile skill set. Excited for more challenges ahead!
